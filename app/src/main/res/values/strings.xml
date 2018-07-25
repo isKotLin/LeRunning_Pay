@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LeRunning</string>
+    <string name="LePay">乐享支付，共享新生活</string>
+    <string name="pleasePassword">请输入运动健身密码</string>
+</resources>
